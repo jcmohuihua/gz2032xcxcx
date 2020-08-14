@@ -10,4 +10,7 @@ public class TestClass {
 	public void aaa() {
 		
 	}
+	
+//	张三又新建了一个方法public void bbbbb() {}
+	public void bbbbb() {}
 }
