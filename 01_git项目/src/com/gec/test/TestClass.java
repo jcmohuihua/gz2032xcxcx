@@ -16,4 +16,7 @@ public class TestClass {
 	
 //	张三又双添加了一个方法
 	public void zhangsanaaaa() {}
+	
+//	李四添加了一个方法
+	public void lisibbbbb() {}
 }
