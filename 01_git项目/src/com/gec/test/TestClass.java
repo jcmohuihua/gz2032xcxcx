@@ -1,22 +1,6 @@
 package com.gec.test;
 
 public class TestClass {
-
-	public static void main(String[] args) {
-		System.out.println("11111");
-	}
-	
-//	张三新建了一个方法
-	public void aaa() {
-		
-	}
-	
-//	张三又新建了一个方法public void bbbbb() {}
-	public void bbbbb() {}
-	
-//	张三又双添加了一个方法
-	public void zhangsanaaaa() {}
-	
-//	李四添加了一个方法
-	public void lisibbbbb() {}
+	//张三在test-branch分支上添加了一个新方法
+	public void test_branch() {}
 }
