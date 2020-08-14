@@ -13,4 +13,7 @@ public class TestClass {
 	
 //	张三又新建了一个方法public void bbbbb() {}
 	public void bbbbb() {}
+	
+//	张三又双添加了一个方法
+	public void zhangsanaaaa() {}
 }
